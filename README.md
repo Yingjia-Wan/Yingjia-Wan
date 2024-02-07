@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Hey! I'm Yingjia Wan. Some friends call me Alisa.
 - 🌱 I’m interested in psycholinguistics, NLP, and everything related.
-- 📫 You are welcome to reach me via email or Twitter! contacts on [my website](yingjia.one).
+- 📫 Feel free to reach me via email! contacts on [my website](yingjia.one).
