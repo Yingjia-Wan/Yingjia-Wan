@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **Yingjia-Wan/Yingjia-Wan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! I'm Yingjia Wan. Some friends call me Alisa.
+- 👋 Hey! I'm Yingjia Wan. Some friends call me Alisa.
 - 🌱 I’m interested in psycholinguistics, NLP, and everything related.
 - 📫 Feel free to reach me via email! contacts on [my website](yingjia.one).
