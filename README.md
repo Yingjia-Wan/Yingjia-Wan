@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hey! I'm Yingjia Wan. Some friends call me Alisa.
+- 👋 Hey! I'm Yingjia Wan. I also go by the name Alisa.
 - 🌱 I’m interested in NLP and everything related.
 - 📫 Feel free to reach me via email! contacts on [my website](https://yingjia.one).
